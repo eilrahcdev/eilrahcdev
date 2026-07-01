@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Charlie 👋  
+### A Software Developer and aspiring Data Analyst
 
-<!--
-**eilrahcdev/eilrahcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I’m a developer focused on building clean, reliable applications from front to back.  
+I enjoy turning ideas into products that solve real problems and create measurable impact.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: **modern web apps and portfolio-grade projects**
+- 🌱 Learning more about: **system development and data analysis**
+- 🤝 Open to: **freelance and collaborative opportunities**
+- ⚡ Strengths: **Software Development, API integration, Data Analysis**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+**Languages:** JavaScript, Kotlin, HTML, CSS, Python  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Database & Tools:** MongoDB, MySQL, Git, GitHub, Vercel, VS Code
+
+## 🌟 Projects
+### 🔹 Resumaker
+Short one-line description of what this project solves.  
+🔗 [Repository](https://github.com/eilrahcdev/EZ-Mart)
+
+### 🔹 Baybay
+Short one-line description of what this project solves.  
+🔗 [Repository](https://github.com/eilrahcdev/Baybay)
+
+### 🔹 RentifyPro
+Short one-line description of what this project solves.  
+🔗 [Repository](https://github.com/eilrahcdev/RentifyPro)
