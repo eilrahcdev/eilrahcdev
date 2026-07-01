@@ -12,5 +12,5 @@ Alongside development, I’m growing my skills in data analytics to turn raw dat
 
 ## 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,kotlin,py,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,kotlin,py,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,vercel" />
 </p>
