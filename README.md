@@ -1,30 +1,16 @@
-# Hey, I'm Charlie 👋  
-### A Software Developer and aspiring Data Analyst
+# Hey, I'm Charlie Martinez  
+### Software Developer | Aspiring Data Analyst
 
 ## 👨‍💻 About Me
-I’m a developer focused on building clean, reliable applications from front to back.  
-I enjoy turning ideas into products that solve real problems and create measurable impact.
+I’m a software developer who enjoys building clean, reliable, and user-focused applications.  
+Alongside development, I’m growing my skills in data analytics to turn raw data into actionable insights that support better decisions.
 
-- 🔭 Currently building: **modern web apps and portfolio-grade projects**
-- 🌱 Learning more about: **system development and data analysis**
-- 🤝 Open to: **freelance and collaborative opportunities**
-- ⚡ Strengths: **Software Development, API integration, Data Analysis**
+- 🌱 Currently learning: **System Development, Data Analytics, and Data Visualization**
+- 🤝 Open to: **Freelance projects, internships, and collaborative opportunities**
+- ⚡ Strengths: **Full-Stack Development, API Integration, Problem Solving, Data Analysis**
+- 🎯 Goal: **Build solutions that are both technically solid and data-informed**
 
 ## 🧰 Tech Stack
-**Languages:** JavaScript, Kotlin, HTML, CSS, Python  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express  
-**Database & Tools:** MongoDB, MySQL, Git, GitHub, Vercel, VS Code
-
-## 🌟 Projects
-### 🔹 Resumaker
-Short one-line description of what this project solves.  
-🔗 [Repository](https://github.com/eilrahcdev/EZ-Mart)
-
-### 🔹 Baybay
-Short one-line description of what this project solves.  
-🔗 [Repository](https://github.com/eilrahcdev/Baybay)
-
-### 🔹 RentifyPro
-Short one-line description of what this project solves.  
-🔗 [Repository](https://github.com/eilrahcdev/RentifyPro)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,kotlin,py,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,vercel" />
+</p>
